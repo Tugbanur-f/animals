@@ -1,6 +1,6 @@
-[bird](bird)
+[cat](cat)
 
-[giraffe](giraffe)
+[elephant](elephant)
 
-[lion](lion)
+[fish](fish)
 
