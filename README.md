@@ -1,6 +1,6 @@
-[cat](cat)
+[cat](/animals2/cat)
 
-[elephant](elephant)
+[elephant](/animals2/elephant)
 
-[fish](fish)
+[fish](/animals2/fish)
 
