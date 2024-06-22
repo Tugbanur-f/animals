@@ -1,6 +1,6 @@
-[bird](bird)
+[cat](/animals2/cat)
 
-[giraffe](giraffe)
+[elephant](/animals2/elephant)
 
-[lion](lion)
+[fish](/animals2/fish)
 
